@@ -4,4 +4,4 @@
 
 
 ### 2. Report Data Summarization to Improve Radiology Workflows.
- <img width="1017" alt="Screenshot 2025-03-14 at 12 37 34" src="https://github.com/user-attachments/assets/ac6c9371-1128-439a-beac-f6f09e18621b" />
+<img width="1017" alt="Screenshot 2025-03-14 at 12 37 34" src="https://github.com/user-attachments/assets/ac6c9371-1128-439a-beac-f6f09e18621b" />
